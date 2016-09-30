@@ -1,0 +1,111 @@
+
+/* Class = "UITextField"; placeholder = "输入您的名称"; ObjectID = "0pr-MW-bYB"; */
+"0pr-MW-bYB.placeholder" = "Enter your name";
+
+/* Class = "UILabel"; text = "绑定手表"; ObjectID = "34g-m2-MIm"; */
+"34g-m2-MIm.text" = "Binding the Watch";
+
+/* Class = "UITextField"; placeholder = "请输入手表序列号"; ObjectID = "50c-Ta-nuM"; */
+"50c-Ta-nuM.placeholder" = "Enter the serial number of the watch";
+
+/* Class = "UIButton"; normalTitle = "发送"; ObjectID = "884-zF-Z4P"; */
+"884-zF-Z4P.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "忘记密码"; ObjectID = "8eJ-7u-fCj"; */
+"8eJ-7u-fCj.normalTitle" = "Forget password";
+
+/* Class = "UILabel"; text = "国家和地区"; ObjectID = "9Ab-pw-Z17"; */
+"9Ab-pw-Z17.text" = "Country and region";
+
+/* Class = "UILabel"; text = "第三方账号登录"; ObjectID = "A1O-yK-nSH"; */
+"A1O-yK-nSH.text" = "Third-party account login";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "E80-cH-t6O"; */
+"E80-cH-t6O.placeholder" = "Enter verification code";
+
+/* Class = "UIButton"; normalTitle = "小伊伴行用户隐私协议"; ObjectID = "LQE-sR-tkH"; */
+"LQE-sR-tkH.normalTitle" = "User privacy agreement";
+
+/* Class = "UIButton"; normalTitle = "扫描手表二维码绑定"; ObjectID = "LTQ-qA-IBx"; */
+"LTQ-qA-IBx.normalTitle" = "QR code scanning binding";
+
+/* Class = "UILabel"; text = "获取验证码"; ObjectID = "Lvi-Yq-q3H"; */
+"Lvi-Yq-q3H.text" = "Get verification code";
+
+/* Class = "UILabel"; text = "欢迎使用iguanWatch"; ObjectID = "QwD-lM-Xc9"; */
+"QwD-lM-Xc9.text" = "Welcome iguanWatch";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "Ro8-AS-Kem"; */
+"Ro8-AS-Kem.placeholder" = "Enter phone number";
+
+/* Class = "UITextField"; placeholder = "请输入新密码"; ObjectID = "SQI-r6-qX7"; */
+"SQI-r6-qX7.placeholder" = "Enter a new password";
+
+/* Class = "UILabel"; text = "获取验证码"; ObjectID = "Sea-3w-Ifx"; */
+"Sea-3w-Ifx.text" = "Get verification code";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "TPk-7o-5D8"; */
+"TPk-7o-5D8.placeholder" = "Enter verification code";
+
+/* Class = "UITextField"; placeholder = "请再次输入密码"; ObjectID = "ale-Uk-0kO"; */
+"ale-Uk-0kO.placeholder" = "Enter the password again";
+
+/* Class = "UILabel"; text = "我是"; ObjectID = "azG-zr-5Ia"; */
+"azG-zr-5Ia.text" = "I'm";
+
+/* Class = "UIButton"; normalTitle = "同意协议并提交注册"; ObjectID = "bYn-QQ-scf"; */
+"bYn-QQ-scf.normalTitle" = "Agree and Submit the Registration";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "cDJ-fw-3tD"; */
+"cDJ-fw-3tD.normalTitle" = "Confirm";
+
+/* Class = "UITextField"; placeholder = "请再次输入新密码"; ObjectID = "fSC-pr-7HW"; */
+"fSC-pr-7HW.placeholder" = "Enter the new password again";
+
+/* Class = "UINavigationItem"; title = "验证手机号"; ObjectID = "gvC-Zb-zRj"; */
+"gvC-Zb-zRj.title" = "Verify phone number";
+
+/* Class = "UIButton"; normalTitle = "登          录"; ObjectID = "hWR-Dz-cXj"; */
+"hWR-Dz-cXj.normalTitle" = "Log in";
+
+/* Class = "UILabel"; text = "或"; ObjectID = "jEp-dg-BSK"; */
+"jEp-dg-BSK.text" = "Or";
+
+/* Class = "UIButton"; normalTitle = "中国"; ObjectID = "lUG-F2-ykH"; */
+"lUG-F2-ykH.normalTitle" = "China";
+
+/* Class = "UITextField"; placeholder = "请输入密码（至少6位）"; ObjectID = "lfq-ql-OZq"; */
+"lfq-ql-OZq.placeholder" = "Enter a password (at least 6 characters)";
+
+/* Class = "UIButton"; normalTitle = "注册账户"; ObjectID = "lyn-dI-dqh"; */
+"lyn-dI-dqh.normalTitle" = "Register account";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "nwg-TB-Ysf"; */
+"nwg-TB-Ysf.normalTitle" = "Submit";
+
+/* Class = "UINavigationItem"; title = "修改密码"; ObjectID = "o18-Ia-LWe"; */
+"o18-Ia-LWe.title" = "Change Password";
+
+/* Class = "UITextField"; text = "请输入密码"; ObjectID = "rGe-pr-B7W"; */
+"rGe-pr-B7W.text" = "Enter your password";
+
+/* Class = "UINavigationItem"; title = "用户注册"; ObjectID = "reL-lu-dPg"; */
+"reL-lu-dPg.title" = "User Registration";
+
+/* Class = "UINavigationItem"; title = "登陆"; ObjectID = "uOd-oJ-cwl"; */
+"uOd-oJ-cwl.title" = "Log in";
+
+/* Class = "UINavigationItem"; title = "完善用户信息"; ObjectID = "vCI-Uj-DoD"; */
+"vCI-Uj-DoD.title" = "Improve user information";
+
+/* Class = "UILabel"; text = "请输入你注册账户的手机号"; ObjectID = "w0F-YI-tiP"; */
+"w0F-YI-tiP.text" = "Enter your registered account mobile phone number";
+
+/* Class = "UITextField"; text = "请输入用户名"; ObjectID = "wGF-sU-Ji8"; */
+"wGF-sU-Ji8.text" = "Enter user name";
+
+/* Class = "UIButton"; normalTitle = "输入手表ID号码绑定"; ObjectID = "xBs-t7-GI4"; */
+"xBs-t7-GI4.normalTitle" = "Bind by inputting serial no.";
+
+/* Class = "UITextField"; placeholder = "请输入手机号码"; ObjectID = "xVk-v6-XsL"; */
+"xVk-v6-XsL.placeholder" = "Enter your phone number";

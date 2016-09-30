@@ -1,0 +1,18 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '7.0'
+target "XIAOYI" do
+    pod 'AFNetworking', '~> 2.6.1'
+    pod 'SDWebImage', '~> 3.7.3'
+    pod 'ZXingObjC', '~> 3.1.0'
+    pod 'MJRefresh', '~> 2.4.12'
+    pod 'MBProgressHUD+BWMExtension', '~> 1.0.0'
+    pod 'Masonry', '~> 0.6.4'
+    pod 'HexColors', '~> 3.0.0'
+    pod 'UMengSocialCOM', '~> 5.2.1'
+    pod 'AliyunOSSiOS', '~> 2.1.4'
+    pod 'PPRevealSideViewController', '~> 1.2.2'
+    pod 'KNSemiModalViewController', '~> 0.3'
+    pod 'UMengAnalytics', '~> 4.1.0'
+    pod 'JPush', '~> 2.1.8'
+    pod 'MJPopupViewController', '~> 0.4'
+end

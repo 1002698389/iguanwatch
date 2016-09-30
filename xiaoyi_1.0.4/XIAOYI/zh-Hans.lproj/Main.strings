@@ -1,0 +1,360 @@
+
+/* Class = "UINavigationItem"; title = "关于手表"; ObjectID = "1JA-PL-Tiq"; */
+"1JA-PL-Tiq.title" = "关于手表";
+
+/* Class = "UILabel"; text = "我是"; ObjectID = "1Qq-QU-JAR"; */
+"1Qq-QU-JAR.text" = "我是";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "2Kn-z5-VzY"; */
+"2Kn-z5-VzY.normalTitle" = "提交";
+
+/* Class = "UINavigationItem"; title = "分享旅程"; ObjectID = "2Oe-52-y3N"; */
+"2Oe-52-y3N.title" = "分享旅程";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "2Pm-yZ-DWe"; */
+"2Pm-yZ-DWe.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "编辑手表用户健康卡"; ObjectID = "2sf-I9-81D"; */
+"2sf-I9-81D.normalTitle" = "编辑手表用户健康卡";
+
+/* Class = "UIButton"; normalTitle = "    确定"; ObjectID = "3Md-Rd-rrw"; */
+"3Md-Rd-rrw.normalTitle" = "    确定";
+
+/* Class = "UIButton"; normalTitle = "发送"; ObjectID = "3s8-dt-uQ8"; */
+"3s8-dt-uQ8.normalTitle" = "发送";
+
+/* Class = "UITabBarItem"; title = "微聊"; ObjectID = "46b-pl-Zp9"; */
+"46b-pl-Zp9.title" = "微聊";
+
+/* Class = "UILabel"; text = "关注方式"; ObjectID = "4ja-kH-w9i"; */
+"4ja-kH-w9i.text" = "关注方式";
+
+/* Class = "UILabel"; text = "定位时间："; ObjectID = "6te-Au-ttY"; */
+"6te-Au-ttY.text" = "定位时间：";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "7B1-PF-X18"; */
+"7B1-PF-X18.text" = "name";
+
+/* Class = "UILabel"; text = "定位"; ObjectID = "7BV-rW-Pzc"; */
+"7BV-rW-Pzc.text" = "定位";
+
+/* Class = "UINavigationItem"; title = "紧急联系人管理"; ObjectID = "8QK-84-eqh"; */
+"8QK-84-eqh.title" = "紧急联系人管理";
+
+/* Class = "UILabel"; text = "电话"; ObjectID = "9uq-dW-B25"; */
+"9uq-dW-B25.text" = "电话";
+
+/* Class = "UIButton"; normalTitle = "修改信息"; ObjectID = "AL4-iz-oKu"; */
+"AL4-iz-oKu.normalTitle" = "修改信息";
+
+/* Class = "UIButton"; normalTitle = "      提交"; ObjectID = "Arl-Xd-TCq"; */
+"Arl-Xd-TCq.normalTitle" = "      提交";
+
+/* Class = "UILabel"; text = "关注时间"; ObjectID = "BWL-6z-F2y"; */
+"BWL-6z-F2y.text" = "关注时间";
+
+/* Class = "UITabBarItem"; title = "更多"; ObjectID = "Bdc-BA-VP5"; */
+"Bdc-BA-VP5.title" = "更多";
+
+/* Class = "UILabel"; text = "address"; ObjectID = "CAj-0z-3Gt"; */
+"CAj-0z-3Gt.text" = "address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dd2-Ff-fov"; */
+"Dd2-Ff-fov.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "请输入电话号码"; ObjectID = "EGg-Y6-dtl"; */
+"EGg-Y6-dtl.placeholder" = "请输入电话号码";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "EiB-Fi-Gi6"; */
+"EiB-Fi-Gi6.text" = "姓名";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EkS-Gh-04j"; */
+"EkS-Gh-04j.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fm6-E6-ASD"; */
+"Fm6-E6-ASD.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G8v-aP-SAO"; */
+"G8v-aP-SAO.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "修改备注名称"; ObjectID = "Gey-ru-AO6"; */
+"Gey-ru-AO6.title" = "修改备注名称";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GoV-dv-UhR"; */
+"GoV-dv-UhR.text" = "Label";
+
+/* Class = "UILabel"; text = "二维码"; ObjectID = "HIY-l0-P5e"; */
+"HIY-l0-P5e.text" = "二维码";
+
+/* Class = "UILabel"; text = "新密码"; ObjectID = "HWb-j4-CrQ"; */
+"HWb-j4-CrQ.text" = "新密码";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IKk-4p-hUY"; */
+"IKk-4p-hUY.text" = "Label";
+
+/* Class = "UILabel"; text = "10.15"; ObjectID = "Iw4-Ce-pG4"; */
+"Iw4-Ce-pG4.text" = "10.15";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JfZ-I6-UEM"; */
+"JfZ-I6-UEM.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "生日"; ObjectID = "JpJ-q8-td9"; */
+"JpJ-q8-td9.title" = "生日";
+
+/* Class = "UILabel"; text = " 14：30"; ObjectID = "KOe-3b-DKx"; */
+"KOe-3b-DKx.text" = " 14：30";
+
+/* Class = "UINavigationItem"; title = "反馈"; ObjectID = "KbV-V9-Hvc"; */
+"KbV-V9-Hvc.title" = "反馈";
+
+/* Class = "UILabel"; text = "14853步"; ObjectID = "Kk7-Oj-TzN"; */
+"Kk7-Oj-TzN.text" = "14853步";
+
+/* Class = "UINavigationItem"; title = "定位频率"; ObjectID = "Lpk-9B-zDu"; */
+"Lpk-9B-zDu.title" = "定位频率";
+
+/* Class = "UILabel"; text = "电话"; ObjectID = "Lqc-03-Ktx"; */
+"Lqc-03-Ktx.text" = "电话";
+
+/* Class = "UILabel"; text = "关注时限"; ObjectID = "Mb0-vn-9OK"; */
+"Mb0-vn-9OK.text" = "关注时限";
+
+/* Class = "UITabBarItem"; title = "聊天"; ObjectID = "N1g-DS-lgQ"; */
+"N1g-DS-lgQ.title" = "聊天";
+
+/* Class = "UIButton"; normalTitle = "    保存"; ObjectID = "NSb-Fe-l9F"; */
+"NSb-Fe-l9F.normalTitle" = "    保存";
+
+/* Class = "UIButton"; normalTitle = "设置定位频率"; ObjectID = "NyR-G6-PYN"; */
+"NyR-G6-PYN.normalTitle" = "设置定位频率";
+
+/* Class = "UINavigationItem"; title = "性别"; ObjectID = "OUe-8R-2C2"; */
+"OUe-8R-2C2.title" = "性别";
+
+/* Class = "UINavigationItem"; title = "关于我们"; ObjectID = "Pn2-Zr-nhf"; */
+"Pn2-Zr-nhf.title" = "关于我们";
+
+/* Class = "UINavigationItem"; title = "心率"; ObjectID = "R07-rG-Ps3"; */
+"R07-rG-Ps3.title" = "心率";
+
+/* Class = "UITextField"; placeholder = "请输入新密码"; ObjectID = "R9q-5T-xLU"; */
+"R9q-5T-xLU.placeholder" = "请输入新密码";
+
+/* Class = "UILabel"; text = "今天走了"; ObjectID = "RNg-xt-gga"; */
+"RNg-xt-gga.text" = "今天走了";
+
+/* Class = "UILabel"; text = "确认新密码"; ObjectID = "RlQ-cL-Lhh"; */
+"RlQ-cL-Lhh.text" = "确认新密码";
+
+/* Class = "UINavigationItem"; title = "管理员权限"; ObjectID = "S01-Ds-VPR"; */
+"S01-Ds-VPR.title" = "管理员权限";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T4j-ic-bry"; */
+"T4j-ic-bry.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "手表用户信息"; ObjectID = "TNU-Vw-kAU"; */
+"TNU-Vw-kAU.title" = "手表用户信息";
+
+/* Class = "UILabel"; text = "测量心率"; ObjectID = "U05-IP-aKf"; */
+"U05-IP-aKf.text" = "测量心率";
+
+/* Class = "UINavigationItem"; title = "通讯录"; ObjectID = "UC7-xh-tNw"; */
+"UC7-xh-tNw.title" = "通讯录";
+
+/* Class = "UILabel"; text = "我是小伊！非常感谢您的使用！有任何关于产品使用的问题或建议，都可以给我留言，我会第一时间给您答复！  "; ObjectID = "UIp-2T-yg0"; */
+"UIp-2T-yg0.text" = "我是小伊！非常感谢您的使用！有任何关于产品使用的问题或建议，都可以给我留言，我会第一时间给您答复！  ";
+
+/* Class = "UILabel"; text = "轨迹"; ObjectID = "UMI-uZ-vLP"; */
+"UMI-uZ-vLP.text" = "轨迹";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "V9m-Ew-0em"; */
+"V9m-Ew-0em.text" = "头像";
+
+/* Class = "UILabel"; text = "5763"; ObjectID = "VWh-ap-XJ0"; */
+"VWh-ap-XJ0.text" = "5763";
+
+/* Class = "UINavigationItem"; title = "更多"; ObjectID = "VdI-uf-CXI"; */
+"VdI-uf-CXI.title" = "更多";
+
+/* Class = "UILabel"; text = "0 次/分"; ObjectID = "Vtn-f9-YOT"; */
+"Vtn-f9-YOT.text" = "0 次/分";
+
+/* Class = "UILabel"; text = "age"; ObjectID = "WJ1-7b-sph"; */
+"WJ1-7b-sph.text" = "age";
+
+/* Class = "UILabel"; text = "更多"; ObjectID = "WXF-Vz-pBy"; */
+"WXF-Vz-pBy.text" = "更多";
+
+/* Class = "UITextField"; placeholder = "请再次输入新密码"; ObjectID = "Wa7-4g-yWi"; */
+"Wa7-4g-yWi.placeholder" = "请再次输入新密码";
+
+/* Class = "UITextField"; placeholder = "请输入紧急联系人姓名"; ObjectID = "WhR-RT-rtb"; */
+"WhR-RT-rtb.placeholder" = "请输入紧急联系人姓名";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Yz9-MD-Cf6"; */
+"Yz9-MD-Cf6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZLh-f4-WWX"; */
+"ZLh-f4-WWX.text" = "Label";
+
+/* Class = "UILabel"; text = "欢迎使用iguanWatch"; ObjectID = "ZVd-5a-Ire"; */
+"ZVd-5a-Ire.text" = "欢迎使用iguanWatch";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "ZbC-zJ-NfY"; */
+"ZbC-zJ-NfY.normalTitle" = "提交";
+
+/* Class = "UITextField"; placeholder = "请输入旧密码"; ObjectID = "Zdm-0Z-MDa"; */
+"Zdm-0Z-MDa.placeholder" = "请输入旧密码";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aDz-Zr-REE"; */
+"aDz-Zr-REE.text" = "Label";
+
+/* Class = "UILabel"; text = "是否分享旅程"; ObjectID = "aFB-CG-2Wo"; */
+"aFB-CG-2Wo.text" = "是否分享旅程";
+
+/* Class = "UINavigationItem"; title = "完善用户信息"; ObjectID = "aUr-8i-amU"; */
+"aUr-8i-amU.title" = "完善用户信息";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "aVL-Va-UXI"; */
+"aVL-Va-UXI.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "aja-Bv-Kmh"; */
+"aja-Bv-Kmh.text" = "name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bIX-pm-82d"; */
+"bIX-pm-82d.text" = "Label";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "bPH-Hq-Qgn"; */
+"bPH-Hq-Qgn.text" = "头像";
+
+/* Class = "UIButton"; normalTitle = "分享"; ObjectID = "cwE-nX-aEl"; */
+"cwE-nX-aEl.normalTitle" = "分享";
+
+/* Class = "UIButton"; normalTitle = "留言"; ObjectID = "dGp-gm-Goe"; */
+"dGp-gm-Goe.normalTitle" = "留言";
+
+/* Class = "UIBarButtonItem"; title = "点击设定"; ObjectID = "dnc-AZ-6uo"; */
+"dnc-AZ-6uo.title" = "点击设定";
+
+/* Class = "UITextField"; placeholder = "请输入联系人姓名"; ObjectID = "dqO-z7-0bb"; */
+"dqO-z7-0bb.placeholder" = "请输入联系人姓名";
+
+/* Class = "UITextField"; placeholder = "请留言"; ObjectID = "f0a-W1-5qN"; */
+"f0a-W1-5qN.placeholder" = "请留言";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "fK7-cC-Yos"; */
+"fK7-cC-Yos.text" = "name";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "fXc-cN-m4D"; */
+"fXc-cN-m4D.text" = "头像";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fey-da-jon"; */
+"fey-da-jon.text" = "Label";
+
+/* Class = "UILabel"; text = "结束时间"; ObjectID = "fqg-gX-oVN"; */
+"fqg-gX-oVN.text" = "结束时间";
+
+/* Class = "UILabel"; text = "日本    东京"; ObjectID = "gHP-gG-mic"; */
+"gHP-gG-mic.text" = "日本    东京";
+
+/* Class = "UILabel"; text = "最近"; ObjectID = "i2C-3E-b5i"; */
+"i2C-3E-b5i.text" = "最近";
+
+/* Class = "UINavigationItem"; title = "手表用户信息"; ObjectID = "iEf-J8-EEG"; */
+"iEf-J8-EEG.title" = "手表用户信息";
+
+/* Class = "UILabel"; text = "发现旅程"; ObjectID = "iG3-vo-mIB"; */
+"iG3-vo-mIB.text" = "发现旅程";
+
+/* Class = "UIButton"; normalTitle = "      确定"; ObjectID = "igX-fI-JBh"; */
+"igX-fI-JBh.normalTitle" = "      确定";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jl9-cF-xnf"; */
+"jl9-cF-xnf.text" = "Label";
+
+/* Class = "UILabel"; text = "联系人"; ObjectID = "jy9-up-AMU"; */
+"jy9-up-AMU.text" = "联系人";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "kaj-Mi-VDz"; */
+"kaj-Mi-VDz.title" = "我的";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mJ7-b3-zg9"; */
+"mJ7-b3-zg9.text" = "Label";
+
+/* Class = "UILabel"; text = "查看当天无数据"; ObjectID = "mi0-fS-2S3"; */
+"mi0-fS-2S3.text" = "查看当天无数据";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ndM-vm-Doz"; */
+"ndM-vm-Doz.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "oR0-Nm-ua1"; */
+"oR0-Nm-ua1.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "76"; ObjectID = "oU0-eY-iSI"; */
+"oU0-eY-iSI.text" = "76";
+
+/* Class = "UITextField"; placeholder = "请输入手表序列号"; ObjectID = "paw-qb-nlH"; */
+"paw-qb-nlH.placeholder" = "请输入手表序列号";
+
+/* Class = "UILabel"; text = "青岛冠一科技有限公司"; ObjectID = "pds-5h-zDb"; */
+"pds-5h-zDb.text" = "青岛冠义科技有限公司";
+
+/* Class = "UILabel"; text = "0 步"; ObjectID = "poF-IE-FM5"; */
+"poF-IE-FM5.text" = "0 步";
+
+/* Class = "UILabel"; text = "旧密码"; ObjectID = "pxo-M6-hd4"; */
+"pxo-M6-hd4.text" = "旧密码";
+
+/* Class = "UIButton"; normalTitle = "解除绑定"; ObjectID = "qkB-w9-6G8"; */
+"qkB-w9-6G8.normalTitle" = "解除绑定";
+
+/* Class = "UIButton"; normalTitle = "升级为管理员"; ObjectID = "qmE-9R-VPy"; */
+"qmE-9R-VPy.normalTitle" = "升级为管理员";
+
+/* Class = "UILabel"; text = "最近位置"; ObjectID = "rqa-Ck-fsz"; */
+"rqa-Ck-fsz.text" = "最近位置";
+
+/* Class = "UIButton"; normalTitle = "删除关注者"; ObjectID = "s69-1e-Iro"; */
+"s69-1e-Iro.normalTitle" = "删除关注者";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sZN-fT-2tt"; */
+"sZN-fT-2tt.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "修改密码"; ObjectID = "sbf-2i-4n4"; */
+"sbf-2i-4n4.title" = "修改密码";
+
+/* Class = "UILabel"; text = "开始时间"; ObjectID = "u3X-Xa-n3L"; */
+"u3X-Xa-n3L.text" = "开始时间";
+
+/* Class = "UITextField"; placeholder = "请输入紧急联系人手机号"; ObjectID = "uAZ-uE-an7"; */
+"uAZ-uE-an7.placeholder" = "请输入紧急联系人手机号";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uUX-L4-IBt"; */
+"uUX-L4-IBt.text" = "Label";
+
+/* Class = "UILabel"; text = "是否限时分享"; ObjectID = "uf3-VK-IRO"; */
+"uf3-VK-IRO.text" = "是否限时分享";
+
+/* Class = "UILabel"; text = "极地海洋世界"; ObjectID = "vQE-F7-cie"; */
+"vQE-F7-cie.text" = "极地海洋世界";
+
+/* Class = "UILabel"; text = "电话"; ObjectID = "vkT-jY-Sh0"; */
+"vkT-jY-Sh0.text" = "电话";
+
+/* Class = "UIButton"; normalTitle = "www.i-guan.com"; ObjectID = "wGv-s0-C2V"; */
+"wGv-s0-C2V.normalTitle" = "www.iguantech.com";
+
+/* Class = "UITextField"; placeholder = "输入您的名称"; ObjectID = "xgg-kp-ayS"; */
+"xgg-kp-ayS.placeholder" = "输入您的名称";
+
+/* Class = "UILabel"; text = "请选择出生日期，点击确定键确认"; ObjectID = "y8c-tr-RoN"; */
+"y8c-tr-RoN.text" = "请选择出生日期，点击确定键确认";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "yd7-09-lfA"; */
+"yd7-09-lfA.text" = "姓名";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "yeT-V5-sby"; */
+"yeT-V5-sby.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z9J-AR-IBZ"; */
+"z9J-AR-IBZ.text" = "Label";
